@@ -1,0 +1,5 @@
+[package]
+name = "MERKLETREE"
+version = "0.1.0"
+authors = ["yiranlandtour <yiranlandtour@163.com>"]
+edition = "2021"
